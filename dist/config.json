@@ -1,0 +1,5 @@
+{
+    "app_name" : "MoviesETL",
+    "source_data_path" : "/user/jovyan/data/movies",
+    "output_data_path" : "/user/jovyan/data"
+}
